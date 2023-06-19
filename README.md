@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Abhishek Saini, and I am a Full Stack Web Developer with over 5 years of experience in web development, I am committed to creating high-quality, efficient, and user-friendly web applications. My passion for web development is driven by my desire to make a positive impact on users' lives through intuitive and engaging user interfaces.
+I'm Abhishek Saini, and I'm a Full Stack Web Developer with over 5 years of experience in web development, I am committed to creating high-quality, efficient, and user-friendly web applications. My passion for web development is driven by my desire to make a positive impact on users' lives through intuitive and engaging user interfaces.
 
 My expertise is in modern frontend technologies such as React, Angular, TypeScript, JavaScript, Redux, Apollo, GraphQL, and more, allows me to develop scalable, responsive, and dynamic web applications that can adapt to changing business requirements.
 
