@@ -6,7 +6,7 @@ My expertise is in modern frontend technologies such as React, Angular, TypeScri
 
 I possess strong collaboration and communication skills, which allow me to work effectively with cross-functional teams, product owners, and team leaders to deliver high-quality results within deadlines. I have experience in code reviewing, architecture, design system, validating merge requests, ensuring code quality and adherence to best practices.
 
-My knowledge of backend technologies such as Node.js, Express, and MongoDB allows me to work across the full stack, ensuring seamless integration and communication between the frontend and backend of web applications. I have experience with CI/CD, Docker, Webpack, MVC architecture, RESTful APIs, unit/integration testing.
+My knowledge of backend technologies such as Node.js, Spring Boot, Express, PostgreSQL and MongoDB allows me to work across the full stack, ensuring seamless integration and communication between the frontend and backend of web applications. I have experience with CI/CD, Docker, Webpack, MVC architecture, RESTful APIs, unit/integration testing.
 
 I am committed to delivering top-notch web applications that are scalable, maintainable, and user-friendly. I am excited about the opportunity to collaborate with a team of passionate professionals and take on new challenges to achieve business goals.
 
